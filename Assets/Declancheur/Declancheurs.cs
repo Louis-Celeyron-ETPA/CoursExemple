@@ -18,4 +18,13 @@ public class Declancheurs : MonoBehaviour
     {
         print("Tu m'as cliqué dessus");
     }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        var urfhei = collision.GetComponent<SpriteRenderer>();
+        if(urfhei != null)
+        {
+            urfhei.sprite = null;
+        }
+    }
 }

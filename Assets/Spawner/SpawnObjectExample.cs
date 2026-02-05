@@ -31,6 +31,7 @@ public class SpawnObjectExample : MonoBehaviour
         var monObjetSpawné = Instantiate(objetASpawnerRigidbody);
 
         //Par exemple je met la gravité à 0 et je l'envoie sur la droite
+        monObjetSpawné.transform.position = Vector2.zero;
         monObjetSpawné.gravityScale = 0;
         monObjetSpawné.linearVelocityX = 1;
     }
