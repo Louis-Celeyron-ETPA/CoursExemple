@@ -1,0 +1,847 @@
+fileFormatVersion: 2
+guid: adf92c81f851fec4e88f2c16267bc9f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3827848228817395445
+    second: T_mickey_0
+  - first:
+      213: -2723708554176643776
+    second: T_mickey_1
+  - first:
+      213: -1732027908354336032
+    second: T_mickey_2
+  - first:
+      213: -5588402725498803320
+    second: T_mickey_3
+  - first:
+      213: -509747839762889059
+    second: T_mickey_4
+  - first:
+      213: -5446817644190119965
+    second: T_mickey_5
+  - first:
+      213: -6331319668436053970
+    second: T_mickey_6
+  - first:
+      213: 4515288244477562276
+    second: T_mickey_7
+  - first:
+      213: 1633618564643124914
+    second: T_mickey_8
+  - first:
+      213: -7137167645982749106
+    second: T_mickey_9
+  - first:
+      213: 773994640232037511
+    second: T_mickey_10
+  - first:
+      213: 7994882844334995773
+    second: T_mickey_11
+  - first:
+      213: 2308250991093485112
+    second: T_mickey_12
+  - first:
+      213: -3649107572658881617
+    second: T_mickey_13
+  - first:
+      213: 8865495705636681136
+    second: T_mickey_14
+  - first:
+      213: -1978445558241836304
+    second: T_mickey_15
+  - first:
+      213: 2198773657394535259
+    second: T_mickey_16
+  - first:
+      213: -8712700520307110265
+    second: T_mickey_17
+  - first:
+      213: 7121144364886634953
+    second: T_mickey_18
+  - first:
+      213: 3013718497590048236
+    second: T_mickey_19
+  - first:
+      213: -3686454409055616152
+    second: T_mickey_20
+  - first:
+      213: -6599970289148571023
+    second: T_mickey_21
+  - first:
+      213: 3778270407747517778
+    second: T_mickey_22
+  - first:
+      213: 4530391926424988432
+    second: T_mickey_23
+  - first:
+      213: -8867745317634905938
+    second: T_mickey_24
+  - first:
+      213: -3669997103231696913
+    second: T_mickey_25
+  - first:
+      213: 6067398998708479159
+    second: T_mickey_26
+  - first:
+      213: 3707942192759115894
+    second: T_mickey_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: T_mickey_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 229
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b012b331150c0eac0800000000000000
+      internalID: -3827848228817395445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_mickey_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 180
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04dbb943081733ad0800000000000000
+      internalID: -2723708554176643776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_mickey_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 189
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea1a754bc996f7e0800000000000000
+      internalID: -1732027908354336032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_mickey_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 188
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ba1dc64510272b0800000000000000
+      internalID: -5588402725498803320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_mickey_4
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 180
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9609ed5a030de8f0800000000000000
+      internalID: -509747839762889059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_mickey_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 136
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7c7b906340964b0800000000000000
+      internalID: -5446817644190119965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_mickey_6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 136
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20dc6b6e42a228a0800000000000000
+      internalID: -6331319668436053970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_mickey_7
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 138
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad059e3cb689ae30800000000000000
+      internalID: 4515288244477562276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_mickey_8
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 130
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b67904ed67cba610800000000000000
+      internalID: 1633618564643124914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_mickey_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 80
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e89ce17dfa3fc90800000000000000
+      internalID: -7137167645982749106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_mickey_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 80
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c36154608cdba00800000000000000
+      internalID: 773994640232037511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_mickey_11
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 80
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39b375969783fe60800000000000000
+      internalID: 7994882844334995773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_mickey_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 38
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e0298fb0e880020800000000000000
+      internalID: 2308250991093485112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_mickey_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 38
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabba781ff3cb5dc0800000000000000
+      internalID: -3649107572658881617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_mickey_14
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 38
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5b9347f51980b70800000000000000
+      internalID: 8865495705636681136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_mickey_15
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 38
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2cb8d3f362b84e0800000000000000
+      internalID: -1978445558241836304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_mickey_16
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 38
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bdc76edfc938e10800000000000000
+      internalID: 2198773657394535259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_mickey_17
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 38
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ecbb4e905461780800000000000000
+      internalID: -8712700520307110265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_mickey_18
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 38
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1b757021363d260800000000000000
+      internalID: 7121144364886634953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_mickey_19
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 38
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5f0e59101e2d920800000000000000
+      internalID: 3013718497590048236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_mickey_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86341932f3517dcc0800000000000000
+      internalID: -3686454409055616152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_mickey_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172da2b7df13864a0800000000000000
+      internalID: -6599970289148571023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_mickey_22
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 2
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d392feaec1f6430800000000000000
+      internalID: 3778270407747517778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_mickey_23
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bebdb347f2fde30800000000000000
+      internalID: 4530391926424988432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_mickey_24
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 2
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8ecbfed907fe480800000000000000
+      internalID: -8867745317634905938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_mickey_25
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 2
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef792f341d811dc0800000000000000
+      internalID: -3669997103231696913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_mickey_26
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 2
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4649c2e3bb33450800000000000000
+      internalID: 6067398998708479159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_mickey_27
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 2
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670171f57c1457330800000000000000
+      internalID: 3707942192759115894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4abca5a2c928f2542b8136cfee74cc70
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      T_mickey_0: -3827848228817395445
+      T_mickey_1: -2723708554176643776
+      T_mickey_10: 773994640232037511
+      T_mickey_11: 7994882844334995773
+      T_mickey_12: 2308250991093485112
+      T_mickey_13: -3649107572658881617
+      T_mickey_14: 8865495705636681136
+      T_mickey_15: -1978445558241836304
+      T_mickey_16: 2198773657394535259
+      T_mickey_17: -8712700520307110265
+      T_mickey_18: 7121144364886634953
+      T_mickey_19: 3013718497590048236
+      T_mickey_2: -1732027908354336032
+      T_mickey_20: -3686454409055616152
+      T_mickey_21: -6599970289148571023
+      T_mickey_22: 3778270407747517778
+      T_mickey_23: 4530391926424988432
+      T_mickey_24: -8867745317634905938
+      T_mickey_25: -3669997103231696913
+      T_mickey_26: 6067398998708479159
+      T_mickey_27: 3707942192759115894
+      T_mickey_3: -5588402725498803320
+      T_mickey_4: -509747839762889059
+      T_mickey_5: -5446817644190119965
+      T_mickey_6: -6331319668436053970
+      T_mickey_7: 4515288244477562276
+      T_mickey_8: 1633618564643124914
+      T_mickey_9: -7137167645982749106
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

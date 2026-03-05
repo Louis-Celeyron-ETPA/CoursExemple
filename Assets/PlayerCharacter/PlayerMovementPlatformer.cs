@@ -6,12 +6,13 @@ public class PlayerMovementPlatformer : MonoBehaviour
     public float speed = 1;
     public float jumpforce = 1;
     public LayerMask mask; //Quels layer seront affecté par le raycast attention a ne pas ajouter le layer de votre perso sinon le raycast va trouver le perso avant de trouver le sol
-
-    void Update()
+    public bool isGrounded;
+    public void Update()
     {
         var hDirection = 0f;
         var vDirection = 0f;
-        if(CheckGround())
+        isGrounded = CheckGround();
+        if(isGrounded)
         {
             if (Input.GetKeyDown(KeyCode.Space))
             {
