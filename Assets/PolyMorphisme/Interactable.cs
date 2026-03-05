@@ -7,10 +7,12 @@ public class Interactable : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        OnTrigger(collision.gameObject);
         player = collision.GetComponent<InteractionManager>();
         if(player != null)
         {
             player.currentInteractable = this;
+
         }
     }
     private void OnTriggerExit2D(Collider2D collision)
@@ -25,6 +27,10 @@ public class Interactable : MonoBehaviour
         }
     }
 
+    public virtual void OnTrigger(GameObject objectTriggered)
+    {
+
+    }
     public virtual void Interaction()
     {
         print("prout");

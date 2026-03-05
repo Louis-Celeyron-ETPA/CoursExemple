@@ -6,6 +6,5 @@ public class CheckPoint : Interactable
     {
         base.Interaction();
         var healthManager = player.GetComponent<HealthManager>();
-        healthManager.checkPoint = transform;
     }
 }

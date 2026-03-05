@@ -3,9 +3,12 @@ using UnityEngine;
 public class Trap : Interactable
 {
     public int dammage=3;
-    public override void Interaction()
+    [SerializeField]
+    private DammageType type;
+    public override void OnTrigger(GameObject objectTriggered)
     {
-        var healthManager = player.GetComponent<HealthManager>();
-        healthManager.AddHp(-dammage);
+        var healthManager = objectTriggered.GetComponent<HealthManager>();
+
+        healthManager.Dammage(dammage, type);
     }
 }
